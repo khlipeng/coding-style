@@ -1,11 +1,12 @@
 # PHP源代码规范
 
-如果与[PHP The Right Way][PHP-FIG]里的标准[PSR-0][PSR-0]、[PSR-1][PSR-1]、[PSR-2][PSR-2]有冲突的地方，我们将逐渐改进。
+如果与[PHP The Right Way][PHP-FIG]里的标准[PSR-0][PSR-0]、[PSR-1][PSR-1]、[PSR-2][PSR-2]、[PSR-4][PSR-4]有冲突的地方，我们将逐渐改进。
 
   [PHP-FIG]: http://www.phptherightway.com/
   [PSR-0]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md
   [PSR-1]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
   [PSR-2]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
+  [PSR-4]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader-meta.md
 
 ## 编辑器设置
  * 字符集使用 **UTF-8**
