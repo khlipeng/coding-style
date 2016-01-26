@@ -12,11 +12,11 @@
 
 ## 目录
 * [文本](#文本)
-* [PHP](#PHP) 
-* [MySql](#MySql)
-* [Objective-C](#Objective-C)
-* [Python](#Python)
-* [Java](#Java)
+* [PHP](#php) 
+* [MySql](#mysql)
+* [Objective-C](#objective-c)
+* [Python](#python)
+* [Java](#java)
 
 ## 文本
 
