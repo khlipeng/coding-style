@@ -38,7 +38,7 @@
 
 ## Python
 
-* [Python 编码规范](https://github.com/khlipeng/coding-style/blob/master/python/python-coding-style.md)
+* [Python 编码规范](https://github.com/khlipeng/coding-style/blob/master/python/python-coding-style.md)（源于安居客）
 
 ## Java
 
