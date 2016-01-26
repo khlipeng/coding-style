@@ -1,4 +1,4 @@
-# 安居客python代码格式规范
+# python代码格式规范
 
 目前的规范基于[pep-0008](http://www.python.org/dev/peps/pep-0008/)
 
