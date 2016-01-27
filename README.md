@@ -2,7 +2,7 @@
 
 ## 参与交流
 
-欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
+欢迎大家将你们使用的代码规范共享出来，您可以：
 
 * 使用 [Issues](https://github.com/khlipeng/coding-style/issues) 以及 Pull Request
 
